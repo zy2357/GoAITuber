@@ -14,7 +14,7 @@ import (
 
 // BiliBili监听结构体
 type biliBili struct {
-	RoomID int `mapstructure:"room_id"` //房间号
+	RoomID int `mapstructure:"30268936"` //房间号
 }
 
 func (config *Config) initBiliBili() {
